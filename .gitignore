@@ -1,0 +1,10 @@
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.apt.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/cz/hb/app/generatecsv/spokojenost/CsvWriter.class
+target/classes/cz/hb/app/generatecsv/spokojenost/DemoApplication.class
+target/classes/application.properties
+target/classes/cz/hb/app/generatecsv/spokojenost/ExportToCSV.class
+target/test-classes/cz/hb/app/generatecsv/spokojenost/DemoApplicationIT.class
+target/classes/cz/hb/app/generatecsv/spokojenost/KlientskaZonaDomainResources_cs_CZ.properties
